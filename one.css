@@ -1,0 +1,12 @@
+.div_vol img{
+    width: 100px; 
+    height: 100px;
+}
+.div_speed img{
+    width: 100px; 
+    height: 100px;
+}
+canvas{
+border: 6px dotted red;
+margin-top: 50px;
+}
